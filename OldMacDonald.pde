@@ -1,6 +1,7 @@
 
 void setup()
 {
-	Farm farm = new Farm;
+	Farm farm = new Farm();
+	farm.animalSounds();
 }
 
